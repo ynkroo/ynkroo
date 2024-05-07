@@ -11,10 +11,6 @@ Welcome to my GitHub! I'm currently pursuing a degree in Digital Ideation at Luc
 - Sharpening my expertise in front-end technologies and web design.
 - Experimenting with new tools and frameworks for responsive and interactive web projects.
 
-### 🌟 Goals
-- Build innovative, user-centric web applications.
-- Contribute to open-source projects and collaborate with like-minded developers.
-
 Feel free to connect or reach out—I'm always interested in discussing ideas and sharing insights! 
 
 Cheers!

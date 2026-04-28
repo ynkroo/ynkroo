@@ -1,3 +1,3 @@
 # Hello, I'm Yannick
 
-Welcome to my GitHub! I'm currently pursuing a degree in Digital Ideation at Lucerne University of Applied Sciences and Arts, where I'm immersing myself in the world of web design and web development.
+I’m a Swiss creative with a BA in Visual Communication. Alongside my work in photography and film, I design digital experiences that connect aesthetics with usability.
